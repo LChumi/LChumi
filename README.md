@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Luis Chumi
 
-<!--
-**LChumi/LChumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about creating robust and efficient web applications. Currently, I work with **Spring** and **Angular** to develop innovative solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm learning more about **security** and **microservices**.
+- 🎨 I'm interested in improving my skills in **design** and **Angular**.
+- 🛠️ I've worked with **TailwindCSS** and **PrimeFaces** to enhance user interfaces.
+- ☕ In **Spring**, I have experience with **crons**, **mail**, **Docker**, and more.
+- 🐍 I've also explored **Python** , **Node.js** and **Flutter**.
+
+## 💡 Goals
+
+- Continue learning and improving my programming skills.
+- Collaborate on interesting and challenging projects.
+- Contribute to the open-source community.
+
+## 📫 How to Reach Me
+
+- **Email**: luischumi.9@gmail.com(mailto:luischumi.9@gmail.com)
+- **LinkedIn**: linkedin.com/in/LChumi(https://www.linkedin.com/in/LChumi)
+- **Twitter**: @luis_chumi(https://twitter.com/luis_chumi)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! I'm excited to keep learning and collaborating on amazing projects.
