@@ -24,7 +24,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark)
 
 ---
 
@@ -34,7 +34,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 <p align="center" style="width: 100%;">
     <span style="width: 100%;">
           <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=onedark" alt="LChumi" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" alt="LChumi" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="LChumi" />
     </span>
 </p>
 
