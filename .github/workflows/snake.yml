@@ -5,10 +5,6 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # Permitir ejecución manual
 
-  push:
-    branches:
-      - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: LChumi
+          github_user_name: LChumi # Reemplaza con tu nombre de usuario de GitHub
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
