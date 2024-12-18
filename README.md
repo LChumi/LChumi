@@ -27,12 +27,15 @@ I'm a software developer passionate about creating robust and efficient web appl
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&theme=radical)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake.svg" />
-</picture>
 
-
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/lchumi/lchumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="LChumi" />
+</p>
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+          <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=onedark" alt="LChumi" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" alt="LChumi" />
+    </span>
+</p>
 
 Thanks for visiting my profile! I'm excited to keep learning and collaborating on amazing projects.
