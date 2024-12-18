@@ -27,7 +27,12 @@ I'm a software developer passionate about creating robust and efficient web appl
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&theme=radical)
 
 ---
-![GitHub Contribution Snake](https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LChumi/LChumi/output/github-snake.svg" />
+</picture>
+
 
 
 Thanks for visiting my profile! I'm excited to keep learning and collaborating on amazing projects.
