@@ -4,6 +4,9 @@ on:
   schedule: # Ejecutar automáticamente cada día a las 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Permitir ejecución manual
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -16,10 +19,12 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
-          github_user_name: LChumi
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - run: git status
 
@@ -27,3 +32,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
