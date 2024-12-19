@@ -35,7 +35,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 ![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
 ---
-[![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
+![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
 
 ---
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
