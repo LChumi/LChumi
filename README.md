@@ -32,7 +32,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 ---
 ![TIME-GRAPH](https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark)
-[![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
+![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
 ---
 [![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
