@@ -25,17 +25,21 @@ I'm a software developer passionate about creating robust and efficient web appl
 ## 📈 GitHub Stats
 
 ---
-
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="LChumi" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=onedark" alt="LChumi" style="width: 49%;" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" alt="LChumi" style="width: 49%;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" style="width: 49%;" />
+    <img align="center" src="" alt="LChumi" style="width: 49%;" />
 </p>
 
 ---
+![TIME-GRAPH](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00)
+[![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark)
+---
+[![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
+
+---
+![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 Thanks for visiting my profile! I'm excited to keep learning and collaborating on amazing projects.
