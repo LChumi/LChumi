@@ -27,7 +27,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 ---
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" style="width: 49%;" />
-    <img align="center" src="" alt="LChumi" style="width: 49%;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="LChumi" style="width: 49%;" />
 </p>
 
 ---
