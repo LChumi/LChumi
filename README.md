@@ -32,12 +32,13 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 ---
 ![TIME-GRAPH](https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark)
-<img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=onedark" alt="LChumi" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=onedark)
+
 ![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
 ---
 ![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
-
 ---
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
