@@ -31,9 +31,13 @@ I'm a software developer passionate about creating robust and efficient web appl
 </p>
 
 ---
-![TIME-GRAPH](https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark)
 
-<img align="center" style="width: 45%;" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" />
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="TIME-GRAPH" style="width: 100%;" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" style="width: 100%;" /></td>
+  </tr>
+</table>
 
 ![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
