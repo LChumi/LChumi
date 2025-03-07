@@ -22,11 +22,11 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 <div alig="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lchumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" height="150"alt="LChumi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lchumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" height="150" alt="LChumi"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=lchumi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" height="150" alt="LChumi"  />
 </div>
 
 ---
