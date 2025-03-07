@@ -16,29 +16,20 @@ I'm a software developer passionate about creating robust and efficient web appl
 - Collaborate on interesting and challenging projects.
 - Contribute to the open-source community.
 
-###
-
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lchumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Stats" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false" alt="Top Languages" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://streak-stats.demolab.com?user=lchumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="Streak Stats" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" alt="Productive Time" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true" alt="Activity Graph" style="width: 100%;" />
-  </div>
-  <div style="flex: 1 1 320px; max-width: 320px;">
-    <img src="https://github-profile-trophy.vercel.app?username=lchumi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="Trophy Graph" style="width: 100%;" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lchumi&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+       height="150" alt="stats graph" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" 
+       height="150" alt="languages graph" style="margin: 5px;" />
+  <img src="https://streak-stats.demolab.com?user=lchumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
+       height="150" alt="streak graph" style="margin: 5px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" alt="Productive Time" style="margin: 5px;" />
+  <img src="https://github-profile-trophy.vercel.app?username=lchumi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
+       height="150" alt="trophy graph" style="margin: 5px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5" 
+       height="150" alt="activity graph" style="margin: 5px;" />
 </div>
 
 ---
