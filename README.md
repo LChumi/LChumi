@@ -39,7 +39,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
 
-### Languajes
+## languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -73,7 +73,7 @@ I'm a software developer passionate about creating robust and efficient web appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-## Social 
+## Social links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/LChumi/" target="_blank">
