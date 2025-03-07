@@ -18,25 +18,6 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 ## 📫 How to Reach Me
 
-- **Email**: [luischumi.9@gmail.com](mailto:luischumi.9@gmail.com)
-- **LinkedIn**: [linkedin.com/in/LChumi](https://www.linkedin.com/in/LChumi)
-- **Twitter**: [@luis_chumi](https://twitter.com/luis_chumi)
-
-## 📈 GitHub Stats
-
----
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" style="width: 49%;" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" alt="LChumi" style="width: 49%;" />
-</p>
-
----
-
-<p align="center">
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="TIME-GRAPH" style="width: 45%;" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" style="width: 49%;" /></td>
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
@@ -88,11 +69,20 @@ I'm a software developer passionate about creating robust and efficient web appl
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+## 📈 GitHub Stats
 
-###
+---
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LChumi&show_icons=true&locale=en&theme=onedark" style="width: 49%;" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" alt="LChumi" style="width: 49%;" />
+</p>
+
+---
+
+<p align="center">
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LChumi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="TIME-GRAPH" style="width: 45%;" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" style="width: 49%;" /></td>
+</p>
 
 ![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
 
