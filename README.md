@@ -84,7 +84,9 @@ I'm a software developer passionate about creating robust and efficient web appl
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" style="width: 49%;" /></td>
 </p>
 
-![LCHUMI'S_GITHUB_ACTIVITY_GRAPH]([https://github-readme-activity-graph.vercel.app/graph?username=lchumi](https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5))
+<div alig="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 ![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
