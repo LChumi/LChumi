@@ -16,7 +16,7 @@ I'm a software developer passionate about creating robust and efficient web appl
 - Collaborate on interesting and challenging projects.
 - Contribute to the open-source community.
 
-## 📫 How to Reach Me
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -50,7 +50,7 @@ I'm a software developer passionate about creating robust and efficient web appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+## Social 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/LChumi/" target="_blank">
@@ -84,7 +84,7 @@ I'm a software developer passionate about creating robust and efficient web appl
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LChumi&theme=dark" alt="LChumi" style="width: 49%;" /></td>
 </p>
 
-![LCHUMI'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=lchumi)
+![LCHUMI'S_GITHUB_ACTIVITY_GRAPH]([https://github-readme-activity-graph.vercel.app/graph?username=lchumi](https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5))
 
 ---
 ![CURRENT-PROFILE-TROPHY](https://github-profile-trophy.vercel.app/?username=Lchumi&theme=onedark&row=1)
