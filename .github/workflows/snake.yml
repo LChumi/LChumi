@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # Ejecutar automáticamente cada día a las 00:00 UTC
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permitir ejecución manual
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,7 +15,8 @@ jobs:
       contents: write
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
@@ -28,7 +29,7 @@ jobs:
 
       - run: git status
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
