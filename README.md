@@ -1,90 +1,183 @@
-<h1 align="center">Luis Chumi</h1>
-<h3 align="center">Full Stack Developer · Java · Spring Boot · Angular</h3>
+# 👋 Hi, I'm Luis Chumi
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/LChumi/">
-    <img src="https://img.shields.io/badge/LinkedIn-LChumi-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:luischumi.9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luischumi.9%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/LChumi">
-    <img src="https://img.shields.io/badge/GitHub-LChumi-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
+### Full Stack Developer | Java • Spring Boot • Angular
+
+Software developer from Ecuador focused on building scalable web applications, automating processes, and designing maintainable software architectures.
+
+I enjoy turning business requirements into efficient solutions using modern backend and frontend technologies.
+
+---
+
+## 🚀 About Me
+
+- ☕ Specialized in backend development with Spring Boot.
+- 🅰️ Building modern web applications with Angular.
+- 🐳 Experience deploying applications with Docker and containerized environments.
+- 🔒 Currently improving my knowledge in application security and software architecture.
+- ⚡ Passionate about automation and process optimization.
+- 🌱 Continuously learning new technologies and development best practices.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
 </p>
 
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST APIs
+- Microservices
+- Scheduled Tasks (Cron Jobs)
+- Email Services & Integrations
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+- Angular
+- TypeScript
+- PrimeNG
+- TailwindCSS
+- Responsive Design
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+- PostgreSQL
+- MongoDB
+- Oracle Database
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx" />
+</p>
+
+- Docker
+- Docker Compose
+- GitHub Actions
+- Nginx
+- Git
+
+### Mobile & Other Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,django" />
+</p>
+
+- Flutter
+- Django
+
 ---
 
-Software developer based in Ecuador with experience designing and building scalable web applications. I focus on clean architecture, maintainable code, and delivering business value through well-engineered backend systems and modern frontends.
+## 💡 What I'm Currently Learning
 
-Currently deepening my expertise in application security, distributed systems, and cloud-native architectures.
-
----
-
-## Core Competencies
-
-| Area | Technologies |
-|------|-------------|
-| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA, Node.js, Python, Django |
-| **Frontend** | Angular, TypeScript, TailwindCSS, PrimeNG |
-| **Databases** | PostgreSQL, MongoDB, Oracle Database |
-| **DevOps** | Docker, Docker Compose, GitHub Actions, Nginx |
-| **Mobile** | Flutter |
-
----
-
-## Areas of Work
-
-**Enterprise Application Development**
-Design and implementation of scalable systems using Spring Boot, Angular, and relational databases, with focus on maintainability and long-term extensibility.
-
-**Process Automation & Logistics**
-Development of business solutions for workflow automation, operational tracking, and efficiency improvements across internal processes.
-
-**Microservices Architecture**
-Working with independent services, centralized configuration, service discovery, and containerized deployments.
-
-**Notification & Integration Services**
-Building reusable email delivery services with HTML templates, file attachments, and automated notification pipelines.
-
----
-
-## Currently Learning
-
-- Application Security (OWASP, Spring Security hardening)
+- Application Security
+- Distributed Systems
+- Cloud-Native Architectures
 - Event-Driven Microservices
-- Cloud-Native Architecture patterns
 - Software Design Patterns
 
 ---
 
-## GitHub Activity
+## 📌 Featured Projects
 
-<div align="center">
+### 🚚 Logistics & Process Automation
+Development of business solutions focused on workflow automation, process tracking, and operational efficiency.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lchumi&show_icons=true&theme=default&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchumi&layout=compact&theme=default&hide_border=true"/>
+### 🏢 Enterprise Applications
+Design and implementation of scalable systems using Spring Boot, Angular, Docker, and relational databases.
 
-</div>
+### 📧 Email & Notification Services
+Building reusable services for email delivery, HTML templates, attachments, and automated notifications.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lchumi&theme=default&hide_border=true" />
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution activity" src="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg"/>
-</picture>
+### ⚙️ Microservices Ecosystem
+Working with independent services, centralized configuration, service discovery, and containerized deployments.
 
 ---
 
-<p align="center">
-  Open to collaborating on backend systems, open-source projects, and technically challenging problems.<br/>
-  <a href="mailto:luischumi.9@gmail.com">luischumi.9@gmail.com</a> · <a href="https://www.linkedin.com/in/LChumi/">linkedin.com/in/LChumi</a>
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lchumi&show_icons=true&theme=dracula&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchumi&layout=compact&theme=dracula" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lchumi&theme=dracula" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+## 📈 Development Focus
+
+```text
+Backend Development      ████████████████████ 90%
+Spring Ecosystem         ████████████████████ 90%
+Angular                  ██████████████████░ 85%
+Docker & DevOps          ████████████████░░░ 80%
+Database Design          ████████████████░░░ 80%
+Microservices            ███████████████░░░░ 75%
+Python                   ████████████░░░░░░░ 60%
+Flutter                  ██████████░░░░░░░░░ 50%
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/LChumi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:luischumi.9@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://twitter.com/luis_chumi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+
+</div>
+
+---
+
+## 📫 Contact
+
+- Email: **luischumi.9@gmail.com**
+- LinkedIn: **linkedin.com/in/LChumi**
+- GitHub: **github.com/LChumi**
+
+---
+
+> “First solve the problem. Then write the code.” – John Johnson
+
+⭐ Feel free to explore my repositories and connect with me.
