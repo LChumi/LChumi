@@ -1,95 +1,183 @@
-# Hi there! 👋 I'm Luis Chumi
+# 👋 Hi, I'm Luis Chumi
 
-I'm a software developer passionate about creating robust and efficient web applications. Currently, I work with **Spring** and **Angular** to develop innovative solutions.
+### Full Stack Developer | Java • Spring Boot • Angular
+
+Software developer from Ecuador focused on building scalable web applications, automating processes, and designing maintainable software architectures.
+
+I enjoy turning business requirements into efficient solutions using modern backend and frontend technologies.
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I'm learning more about **security** and **microservices**.
-- 🎨 I'm interested in improving my skills in **design** and **Angular**.
-- 🛠️ I've worked with **TailwindCSS** and **PrimeFaces** to enhance user interfaces.
-- ☕ In **Spring**, I have experience with **crons**, **mail**, **Docker**, and more.
-- 🐍 I've also explored **Python**, **Node.js**, and **Flutter**.
+- ☕ Specialized in backend development with Spring Boot.
+- 🅰️ Building modern web applications with Angular.
+- 🐳 Experience deploying applications with Docker and containerized environments.
+- 🔒 Currently improving my knowledge in application security and software architecture.
+- ⚡ Passionate about automation and process optimization.
+- 🌱 Continuously learning new technologies and development best practices.
 
-## 💡 Goals
+---
 
-- Continue learning and improving my programming skills.
-- Collaborate on interesting and challenging projects.
-- Contribute to the open-source community.
+## 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+</p>
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST APIs
+- Microservices
+- Scheduled Tasks (Cron Jobs)
+- Email Services & Integrations
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+</p>
+
+- Angular
+- TypeScript
+- PrimeNG
+- TailwindCSS
+- Responsive Design
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+- PostgreSQL
+- MongoDB
+- Oracle Database
+
+### DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx" />
+</p>
+
+- Docker
+- Docker Compose
+- GitHub Actions
+- Nginx
+- Git
+
+### Mobile & Other Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,django" />
+</p>
+
+- Flutter
+- Django
+
+---
+
+## 💡 What I'm Currently Learning
+
+- Application Security
+- Distributed Systems
+- Cloud-Native Architectures
+- Event-Driven Microservices
+- Software Design Patterns
+
+---
+
+## 📌 Featured Projects
+
+### 🚚 Logistics & Process Automation
+Development of business solutions focused on workflow automation, process tracking, and operational efficiency.
+
+### 🏢 Enterprise Applications
+Design and implementation of scalable systems using Spring Boot, Angular, Docker, and relational databases.
+
+### 📧 Email & Notification Services
+Building reusable services for email delivery, HTML templates, attachments, and automated notifications.
+
+### ⚙️ Microservices Ecosystem
+Working with independent services, centralized configuration, service discovery, and containerized deployments.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lchumi&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-       height="150" alt="stats graph" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lchumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false&order=2" 
-       height="150" alt="languages graph" style="margin: 10px;" />
-  <img src="https://streak-stats.demolab.com?user=lchumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
-       height="150" alt="streak graph" style="margin: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lchumi&theme=radical&utcOffset=8.00" 
-       height="150" alt="Productive Time" style="margin: 10px;" />
-  <img src="https://github-profile-trophy.vercel.app?username=lchumi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
-       height="150" alt="trophy graph" style="margin: 10px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lchumi&radius=16&theme=react&area=true&order=5" 
-       height="150" alt="activity graph" style="margin: 10px;" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lchumi&show_icons=true&theme=dracula&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchumi&layout=compact&theme=dracula" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lchumi&theme=dracula" height="170"/>
+
 </div>
 
 ---
+
+## 🐍 Contribution Activity
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ---
 
-## languages
+## 📈 Development Focus
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+```text
+Backend Development      ████████████████████ 90%
+Spring Ecosystem         ████████████████████ 90%
+Angular                  ██████████████████░ 85%
+Docker & DevOps          ████████████████░░░ 80%
+Database Design          ████████████████░░░ 80%
+Microservices            ███████████████░░░░ 75%
+Python                   ████████████░░░░░░░ 60%
+Flutter                  ██████████░░░░░░░░░ 50%
+```
 
-## Social links
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/LChumi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/luis_chumi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="luischumi.9@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/luis_chumi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+<a href="https://www.linkedin.com/in/LChumi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:luischumi.9@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://twitter.com/luis_chumi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+
 </div>
 
 ---
 
-Thanks for visiting my profile! I'm excited to keep learning and collaborating on amazing projects.
+## 📫 Contact
+
+- Email: **luischumi.9@gmail.com**
+- LinkedIn: **linkedin.com/in/LChumi**
+- GitHub: **github.com/LChumi**
+
+---
+
+> “First solve the problem. Then write the code.” – John Johnson
+
+⭐ Feel free to explore my repositories and connect with me.
