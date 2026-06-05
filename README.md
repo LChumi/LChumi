@@ -1,183 +1,113 @@
-# 👋 Hi, I'm Luis Chumi
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Luis+Chumi+%F0%9F%91%8B;Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular" alt="Typing SVG" />
+</h1>
 
-### Full Stack Developer | Java • Spring Boot • Angular
+<p align="center">
+  <a href="https://www.linkedin.com/in/LChumi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:luischumi.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/luis_chumi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/LChumi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-Software developer from Ecuador focused on building scalable web applications, automating processes, and designing maintainable software architectures.
-
-I enjoy turning business requirements into efficient solutions using modern backend and frontend technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LChumi&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- ☕ Specialized in backend development with Spring Boot.
-- 🅰️ Building modern web applications with Angular.
-- 🐳 Experience deploying applications with Docker and containerized environments.
-- 🔒 Currently improving my knowledge in application security and software architecture.
-- ⚡ Passionate about automation and process optimization.
-- 🌱 Continuously learning new technologies and development best practices.
+```text
+🌍  Based in Ecuador
+☕  Backend-first developer — Spring Boot is my home
+🅰️  Building modern UIs with Angular
+🐳  Containerizing everything with Docker
+🔐  Currently diving deep into Application Security & Distributed Systems
+⚡  Obsessed with automation, clean architecture, and scalable solutions
+🚗  Off-screen: restoring a 1991 Mitsubishi Lancer Wagon III from scratch
+```
+
+> *"First solve the problem. Then write the code."* — John Johnson
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
-</p>
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-- Java
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- REST APIs
-- Microservices
-- Scheduled Tasks (Cron Jobs)
-- Email Services & Integrations
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
-</p>
-
-- Angular
-- TypeScript
-- PrimeNG
-- TailwindCSS
-- Responsive Design
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-- PostgreSQL
-- MongoDB
-- Oracle Database
-
-### DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,nginx" />
-</p>
-
-- Docker
-- Docker Compose
-- GitHub Actions
-- Nginx
-- Git
-
-### Mobile & Other Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,django" />
-</p>
-
-- Flutter
-- Django
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 💡 What I'm Currently Learning
-
-- Application Security
-- Distributed Systems
-- Cloud-Native Architectures
-- Event-Driven Microservices
-- Software Design Patterns
-
----
-
-## 📌 Featured Projects
-
-### 🚚 Logistics & Process Automation
-Development of business solutions focused on workflow automation, process tracking, and operational efficiency.
-
-### 🏢 Enterprise Applications
-Design and implementation of scalable systems using Spring Boot, Angular, Docker, and relational databases.
-
-### 📧 Email & Notification Services
-Building reusable services for email delivery, HTML templates, attachments, and automated notifications.
-
-### ⚙️ Microservices Ecosystem
-Working with independent services, centralized configuration, service discovery, and containerized deployments.
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lchumi&show_icons=true&theme=dracula&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchumi&layout=compact&theme=dracula" height="170"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lchumi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchumi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lchumi&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lchumi&theme=dracula" height="170"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=lchumi&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
 ## 🐍 Contribution Activity
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LChumi/LChumi/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
-## 📈 Development Focus
+## 📈 Focus Areas
 
 ```text
-Backend Development      ████████████████████ 90%
-Spring Ecosystem         ████████████████████ 90%
-Angular                  ██████████████████░ 85%
-Docker & DevOps          ████████████████░░░ 80%
-Database Design          ████████████████░░░ 80%
-Microservices            ███████████████░░░░ 75%
-Python                   ████████████░░░░░░░ 60%
-Flutter                  ██████████░░░░░░░░░ 50%
+Backend Development      ████████████████████  90%
+Spring Ecosystem         ████████████████████  90%
+Angular                  ██████████████████░░  85%
+Docker & DevOps          ████████████████░░░░  80%
+Database Design          ████████████████░░░░  80%
+Microservices            ███████████████░░░░░  75%
+Python / Django          ████████████░░░░░░░░  60%
+Flutter                  ██████████░░░░░░░░░░  50%
 ```
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/LChumi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="mailto:luischumi.9@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-<a href="https://twitter.com/luis_chumi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-
-</div>
-
----
-
-## 📫 Contact
-
-- Email: **luischumi.9@gmail.com**
-- LinkedIn: **linkedin.com/in/LChumi**
-- GitHub: **github.com/LChumi**
-
----
-
-> “First solve the problem. Then write the code.” – John Johnson
-
-⭐ Feel free to explore my repositories and connect with me.
+<p align="center">
+  <i>Open to collaborating on interesting backend challenges and open-source projects.</i><br/><br/>
+  <b>⭐ Feel free to explore my repos and reach out!</b>
+</p>
